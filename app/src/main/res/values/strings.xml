@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Type 3 character abbreviation code to search for your favorite team. I will give you team players and record
+        relevant team information in the database. (ex: LAL, OKC...)
+    </string>
+    <string name="app_name">NBA Searching</string>
+    <string name="action_settings">Action</string>
+</resources>
